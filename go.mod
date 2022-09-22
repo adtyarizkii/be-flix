@@ -9,6 +9,7 @@ require (
 	github.com/go-playground/validator/v10 v10.11.0 // indirect
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
 	github.com/golang-jwt/jwt/v4 v4.4.2 // indirect
+	github.com/google/uuid v1.3.0 // indirect
 	github.com/gorilla/handlers v1.5.1 // indirect
 	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/jackc/chunkreader/v2 v2.0.1 // indirect
@@ -24,6 +25,7 @@ require (
 	github.com/joho/godotenv v1.4.0 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/midtrans/midtrans-go v1.3.5 // indirect
+	github.com/rs/cors v1.8.2 // indirect
 	golang.org/x/crypto v0.0.0-20220919173607-35f4265a4bc0 // indirect
 	golang.org/x/sys v0.0.0-20210806184541-e5e7981a1069 // indirect
 	golang.org/x/text v0.3.7 // indirect
